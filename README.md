@@ -65,4 +65,4 @@ Chakra UI is a simple, modular and accessible component library that gives you t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

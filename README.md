@@ -25,6 +25,7 @@ $ php artisan migrate:refresh --seed
 $ php artisan serve
 ```
 
+# Packages and repositories
 
 ## About Laravel
 
@@ -72,6 +73,7 @@ The name “SWR” is derived from stale-while-revalidate, a cache invalidation 
 
 Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
+> This kit use the repository :  https://github.com/ozziexsh/laravel-jetstream-react
 
 ## License
 

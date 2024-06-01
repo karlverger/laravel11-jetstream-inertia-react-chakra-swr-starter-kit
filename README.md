@@ -3,8 +3,28 @@
 
 You can use this starter kit by typing this command : 
 ```shell
-$ composer create-project karlverger/laravel11-jetstream-inertia-react-chakra-swr-starter-kit new-project-name
+$ composer create-project karlverger/starterkit:dev-master winklecard new-project-name
 ```
+
+After you have created your new project, you will need to setup your DB connection in your .env file
+
+```dotenv
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
+```
+
+And you gonna have  to type :
+```shell
+$ npm install
+$ npm run dev
+$ php artisan migrate:refresh --seed 
+$ php artisan serve
+```
+
 
 ## About Laravel
 
